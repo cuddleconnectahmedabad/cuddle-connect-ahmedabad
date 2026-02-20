@@ -1,0 +1,26 @@
+body{
+font-family:Arial;
+margin:0;
+background:#111;
+color:white;
+text-align:center;
+}
+
+header{
+background:black;
+padding:20px;
+color:#ff4da6;
+}
+
+.hero{
+padding:60px;
+background:#1a1a1a;
+}
+
+.btn{
+background:#ff4da6;
+padding:12px 25px;
+color:white;
+text-decoration:none;
+border-radius:5px;
+}
